@@ -1,0 +1,3 @@
+nohup: ignoring input
+cat: /home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/cleanNstat/outdir/spamcwid/135.out: No such file or directory
+awk: cmd. line:1: fatal: division by zero attempted

@@ -1,0 +1,82 @@
+nohup: ignoring input
+04214209.d5blade02.21610
+indexroot  file:///GW/D5data-2/khui/index/cw09atop30qrel
+output  /GW/D5data-2/khui/features/termweight/adhocn/perquery
+15/04/21 09:42:35 WARN task.PrintAdhocFeatures: /GW/D5data-2/khui/features/termweight/adhocn/perquery has been deleted.
+15/04/21 09:42:51 INFO mm.ForwardIndexMM: Initialized forward index with 72946 documents in 15 secs
+15/04/21 09:42:51 INFO util.NativeCodeLoader: Loaded the native-hadoop library
+15/04/21 09:42:51 INFO zlib.ZlibFactory: Successfully loaded & initialized native-zlib library
+15/04/21 09:42:51 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:51 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:51 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:51 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:52 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:53 INFO compress.CodecPool: Got brand-new decompressor
+15/04/21 09:42:56 INFO mm.DictionaryMM: Initialized dictionary
+15/04/21 09:47:23 INFO task.PrintAdhocFeatures: Finished 10000
+15/04/21 09:51:47 INFO task.PrintAdhocFeatures: Finished 20000
+15/04/21 09:56:11 INFO task.PrintAdhocFeatures: Finished 30000
+15/04/21 10:00:36 INFO task.PrintAdhocFeatures: Finished 40000
+15/04/21 10:05:01 INFO task.PrintAdhocFeatures: Finished 50000
+15/04/21 10:09:26 INFO task.PrintAdhocFeatures: Finished 60000
+15/04/21 10:13:50 INFO task.PrintAdhocFeatures: Finished 70000
+15/04/21 10:15:08 INFO task.PrintAdhocFeatures: Finished: output to /GW/D5data-2/khui/features/termweight/adhocn/perquery
+printfeature.sh is finished for 04214209.d5blade02.21610 at time: 04211510
