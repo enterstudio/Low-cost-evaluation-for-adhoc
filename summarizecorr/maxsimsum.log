@@ -1,0 +1,25 @@
+nohup: ignoring input
+call.sh: line 13: log/aones-cosine-0.0.log: No such file or directory
+maxsim/aones-cosine-0.0 finished
+call.sh: line 13: log/aones-rbf-0.0.log: No such file or directory
+maxsim/aones-rbf-0.0 finished
+call.sh: line 13: log/appri-cosine-0.0.log: No such file or directory
+maxsim/appri-cosine-0.0 finished
+call.sh: line 13: log/appri-rbf-0.0.log: No such file or directory
+maxsim/appri-rbf-0.0 finished
+call.sh: line 13: log/aones-cosine-0.8.log: No such file or directory
+maxsim/aones-cosine-0.8 finished
+call.sh: line 13: log/aones-rbf-0.8.log: No such file or directory
+maxsim/aones-rbf-0.8 finished
+call.sh: line 13: log/appri-cosine-0.8.log: No such file or directory
+maxsim/appri-cosine-0.8 finished
+call.sh: line 13: log/appri-rbf-0.8.log: No such file or directory
+maxsim/appri-rbf-0.8 finished
+call.sh: line 13: log/srk-cosine-0.0.log: No such file or directory
+maxsim/srk-cosine-0.0 finished
+call.sh: line 13: log/srk-rbf-0.0.log: No such file or directory
+maxsim/srk-rbf-0.0 finished
+call.sh: line 13: log/srk-cosine-0.8.log: No such file or directory
+maxsim/srk-cosine-0.8 finished
+call.sh: line 13: log/srk-rbf-0.8.log: No such file or directory
+maxsim/srk-rbf-0.8 finished

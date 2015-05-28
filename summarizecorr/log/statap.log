@@ -1,0 +1,8 @@
+nohup: ignoring input
+removing /scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/gnucorr
+/home/khui/.local/lib/python2.7/site-packages/scipy/stats/stats.py:1013: RuntimeWarning: invalid value encountered in double_scalars
+  vals = np.where(zero, 0, m3 / m2**1.5)
+/home/khui/.local/lib/python2.7/site-packages/scipy/stats/_distn_infrastructure.py:1879: RuntimeWarning: invalid value encountered in multiply
+  lower_bound = self.a * scale + loc
+/home/khui/.local/lib/python2.7/site-packages/scipy/stats/_distn_infrastructure.py:1880: RuntimeWarning: invalid value encountered in multiply
+  upper_bound = self.b * scale + loc

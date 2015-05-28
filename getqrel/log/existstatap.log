@@ -1,0 +1,131 @@
+nohup: ignoring input
+current pid: 80410 sedna
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/1 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/10 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/11 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/12 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/13 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/14 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/15 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/16 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/17 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/18 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/19 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/2 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/20 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/21 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/22 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/23 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/24 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/25 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/26 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/27 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/28 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/29 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/3 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/30 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/4 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/5 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/6 finished
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/7 finished
+callexist.sh: line 26: 84295 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84296 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84297 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84301 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84298 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84299 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84300 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84302 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84303 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84304 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84305 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84306 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84307 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84308 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84309 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84310 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84311 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84312 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84313 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84314 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84315 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84316 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84318 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84317 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84319 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84320 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84321 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84322 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84323 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84324 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84325 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84326 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84327 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84328 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84329 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84330 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84331 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84332 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84333 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84334 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84335 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84336 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84338 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84337 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84339 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84340 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84341 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84342 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84343 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84344 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84345 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84346 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84347 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84348 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84349 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84350 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84351 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84352 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84353 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84354 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84355 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84356 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84357 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84358 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84359 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84360 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84361 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84362 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84363 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84364 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84365 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84366 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84367 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84368 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84369 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84370 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84371 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84372 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84373 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84374 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84375 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84376 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84377 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84378 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84379 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84380 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84381 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84382 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84383 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84384 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84385 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84386 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84387 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84388 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84389 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84390 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84391 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84392 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84393 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+callexist.sh: line 26: 84394 Killed                  ( python existcwids.py -i $qreld/$qid -q $qid -j $completeqrel/$qid )
+/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/statAP/qrels/0.01/8 finished

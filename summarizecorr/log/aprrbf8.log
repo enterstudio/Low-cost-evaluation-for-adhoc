@@ -1,0 +1,34 @@
+nohup: ignoring input
+removing /scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/gnucorr
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/kendalltau/bpref.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/kendalltau/indap.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/kendalltau/infap.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/kendalltau/tmap.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/pearsonr/bpref.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/pearsonr/indap.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/pearsonr/infap.corr'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/summarizecorr/summarize.py", line 64, in <module>
+    corrf=open(corrf, 'r')
+IOError: [Errno 2] No such file or directory: '/scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/corrs/pearsonr/tmap.corr'

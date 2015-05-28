@@ -1,0 +1,88 @@
+nohup: ignoring input
+current pid: 78381
+deleting exist folder /scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/evals/tmap
+deleting exist folder /scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/evals/indap
+deleting exist folder /scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/evals/infap
+deleting exist folder /scratch/GW/pool0/khui/result/2stagelowcost/comparativestd/maxsim/appri-rbf-0.8/evals/bpref
+deleting exist folder /scratch/GW/pool0/khui/tmp/measure4/appri-rbf-0.8
+11-0.01 done
+12-0.01 done
+13-0.01 done
+14-0.01 done
+11-0.05 done
+12-0.05 done
+13-0.05 done
+14-0.05 done
+11-0.1 done
+12-0.1 done
+13-0.1 done
+14-0.1 done
+11-0.15 done
+12-0.15 done
+13-0.15 done
+14-0.15 done
+11-0.2 done
+12-0.2 done
+13-0.2 done
+14-0.2 done
+11-0.25 done
+12-0.25 done
+13-0.25 done
+14-0.25 done
+11-0.3 done
+12-0.3 done
+13-0.3 done
+14-0.3 done
+11-0.35 done
+12-0.35 done
+13-0.35 done
+14-0.35 done
+11-0.4 done
+12-0.4 done
+13-0.4 done
+14-0.4 done
+11-0.45 done
+12-0.45 done
+13-0.45 done
+14-0.45 done
+11-0.5 done
+12-0.5 done
+13-0.5 done
+14-0.5 done
+11-0.55 done
+12-0.55 done
+13-0.55 done
+14-0.55 done
+11-0.6 done
+12-0.6 done
+13-0.6 done
+14-0.6 done
+11-0.65 done
+12-0.65 done
+13-0.65 done
+14-0.65 done
+11-0.7 done
+12-0.7 done
+13-0.7 done
+14-0.7 done
+11-0.75 done
+12-0.75 done
+13-0.75 done
+14-0.75 done
+11-0.8 done
+12-0.8 done
+13-0.8 done
+14-0.8 done
+11-0.85 done
+12-0.85 done
+13-0.85 done
+14-0.85 done
+11-0.9 done
+12-0.9 done
+13-0.9 done
+14-0.9 done
+11-0.95 done
+12-0.95 done
+13-0.95 done
+14-0.95 done
+14 finished: 244.945858195

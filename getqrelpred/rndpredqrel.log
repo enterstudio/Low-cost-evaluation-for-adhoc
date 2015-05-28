@@ -1,0 +1,195 @@
+nohup: ignoring input
+finished d5blade02 201 25 0.01
+finished d5blade02 226 25 0.01
+finished d5blade02 251 25 0.01
+finished d5blade02 276 25 0.01
+finished d5blade02 201 25 0.05
+finished d5blade02 226 25 0.05
+finished d5blade02 251 25 0.05
+finished d5blade02 276 25 0.05
+finished d5blade02 201 25 0.1
+finished d5blade02 226 25 0.1
+finished d5blade02 251 25 0.1
+finished d5blade02 276 25 0.1
+finished d5blade02 201 25 0.2
+finished d5blade02 226 25 0.2
+finished d5blade02 251 25 0.2
+finished d5blade02 276 25 0.2
+finished d5blade02 201 25 0.3
+finished d5blade02 226 25 0.3
+finished d5blade02 251 25 0.3
+finished d5blade02 276 25 0.3
+finished d5blade02 201 25 0.4
+finished d5blade02 226 25 0.4
+finished d5blade02 251 25 0.4
+finished d5blade02 276 25 0.4
+finished d5blade02 201 25 0.5
+finished d5blade02 226 25 0.5
+finished d5blade02 251 25 0.5
+finished d5blade02 276 25 0.5
+finished d5blade02 201 25 0.6
+finished d5blade02 226 25 0.6
+finished d5blade02 251 25 0.6
+finished d5blade02 276 25 0.6
+finished d5blade02 201 25 0.7
+finished d5blade02 226 25 0.7
+finished d5blade02 251 25 0.7
+finished d5blade02 276 25 0.7
+finished d5blade02 201 25 0.8
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/241'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/229'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/237'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/233'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/234'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/230'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/243'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/231'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/245'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/240'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/235'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/232'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/244'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/250'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/246'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/227'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/248'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/242'
+Traceback (most recent call last):
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 84, in <module>
+    runcwids, docsysrank = readtrecrun(trecrunf)
+  File "/home/khui/workspace/script/pythonscript/2stagecluster/main/comparativestudy/getqrelpred/pred.py", line 23, in readtrecrun
+    trf=open(runf,'r')
+IOError: [Errno 2] No such file or directory: '/GW/D5data-2/khui/trecrun/adhoc/normrun30qrel/perquery/236'
+finished d5blade02 226 25 0.8
+finished d5blade02 251 25 0.8
+finished d5blade02 276 25 0.8
+finished d5blade02 201 25 0.9
+finished d5blade02 226 25 0.9
+finished d5blade02 251 25 0.9
+finished d5blade02 276 25 0.9
+finished d5blade02 201 25 0.15
+finished d5blade02 226 25 0.15
+finished d5blade02 251 25 0.15
+finished d5blade02 276 25 0.15
+finished d5blade02 201 25 0.25
+finished d5blade02 226 25 0.25
+finished d5blade02 251 25 0.25
+finished d5blade02 276 25 0.25
+finished d5blade02 201 25 0.35
+finished d5blade02 226 25 0.35
+finished d5blade02 251 25 0.35
+finished d5blade02 276 25 0.35
+finished d5blade02 201 25 0.45
+finished d5blade02 226 25 0.45
+finished d5blade02 251 25 0.45
+finished d5blade02 276 25 0.45
+finished d5blade02 201 25 0.55
+finished d5blade02 226 25 0.55
+finished d5blade02 251 25 0.55
+finished d5blade02 276 25 0.55
+finished d5blade02 201 25 0.65
+finished d5blade02 226 25 0.65
+finished d5blade02 251 25 0.65
+finished d5blade02 276 25 0.65
+finished d5blade02 201 25 0.75
+finished d5blade02 226 25 0.75
+finished d5blade02 251 25 0.75
+finished d5blade02 276 25 0.75
+finished d5blade02 201 25 0.85
+finished d5blade02 226 25 0.85
+finished d5blade02 251 25 0.85
+finished d5blade02 276 25 0.85
+finished d5blade02 201 25 0.95
+finished d5blade02 226 25 0.95
+finished d5blade02 251 25 0.95
+finished d5blade02 276 25 0.95
