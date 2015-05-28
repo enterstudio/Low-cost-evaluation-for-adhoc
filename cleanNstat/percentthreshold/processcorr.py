@@ -11,7 +11,7 @@ expids = fname.split('-')
 selectn = expids[0]
 metricn = expids[1]
 print "#", selectn, metricn
-corrs={0.85, 0.9}
+corrs={0.8, 0.9}
 yearCorrPercents=dict()
 yearpercent=dict()
 for line in open(inf):
